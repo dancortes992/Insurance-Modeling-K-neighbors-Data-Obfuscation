@@ -21,9 +21,7 @@ Features available in our data consist of:
 
 ## Findings
 
-KNN vs Dummy model:
-
-Dummy model testing with different probabilities suggests a KNN clissifier can predict similar costumers better than dummy model based on F1 scores. Scaled data is to be used.
+KNN vs Dummy model: Dummy model testing with different probabilities suggests a KNN clissifier can predict similar costumers better than dummy model based on F1 scores. Scaled data is to be used.
 
 Linear Regression with Obfuscated Data: Testing shows linear regression model can be performed with obfuscated data without breaking model. Results show predictions using both original and obfuscated data match.
 
